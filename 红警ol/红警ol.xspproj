@@ -1,0 +1,46 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/badboy.lua
+2\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/Fucked.lua
+3\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/main.lua
+4\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/MonsterUtil.lua
+5\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/utilcaiji.lua
+6\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/CheckFree.lua
+7\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/JSON.lua
+8\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/md5.lua
+9\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/pos.lua
+10\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/StrUtilsAPI.lua
+11\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/UI.lua
+12\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/utils.lua
+13\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/ftp.lua
+size=33
+14\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/headers.lua
+15\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/http.lua
+16\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/ltn12.lua
+17\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/mbox.lua
+18\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/mime.lua
+19\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/smtp.lua
+20\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/socket.lua
+21\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/tp.lua
+22\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/bblibs/socket/url.lua
+23\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/utils.lua
+24\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/wui.lua
+25\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/button.lua
+26\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/cell.lua
+27\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/checkbox.lua
+28\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/checkbox_list.lua
+29\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/grid_select.lua
+30\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/progress.lua
+31\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/radio.lua
+32\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/tab_bar.lua
+33\SOURCEFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/src/wui/comp/tab_page.lua
+
+[UI]
+1\UIFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/ui/layout.json
+size=2
+2\UIFILE=C:/Users/think joffro/Documents/xspworkspace/\x7ea2\x8b66ol/xsp/ui/style.json
+
+[RES]
+size=0
+
+[LIB]
+size=0
